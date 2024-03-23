@@ -76,5 +76,5 @@ In this assignment, we implemented the following methods:
     Returns a boolean whether the prefix is in the trie or not.
 --> boolean isWordValid(String word):
     Returns a boolean whether the word is in the trie or not.
---> void printAllKeys(): This method prints all the characters in your trie.
+--> void printAllKeys(): This method prints all keys in the root in our trie.
 ```
