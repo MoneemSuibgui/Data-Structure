@@ -1,4 +1,7 @@
 ## Singly Linked List Assignment :
+
+#### Visual representation of SLL:
+[<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/6a59cd8e-8584-4855-a5a5-9576276e0799" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
 Practice creating classes and objects
@@ -23,7 +26,7 @@ Learn and implement a singly linked list in Java
 
 
 ## Doubly Linked List Assignment :
-#### Visual representation of Tries:
+#### Visual representation of DLL:
 [<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/11786757-98e2-4d13-ab7f-4ca47c1fa016" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
