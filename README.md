@@ -52,7 +52,7 @@ In Dll assignment, we will implement common methods for Doubly Linked Lists
 Tries are tree-like data structures that are efficient in reTrieving information. Usually, Tries are used to store sequences of characters or words. A perfect example of a trie data structure is google's auto complete feature in their search bar. Every time you type a letter, google searches possible suggestions for what you are looking for
 ```
 #### Visual representation of Tries:
-[<img src="https://github.com/MoneemSuibgui/Web_Fundamentals/assets/125930635/08f7ccea-7822-415d-b35d-b3c75090c30d" width="600"  />](./link/to/sql/file)
+[<img src="https://github.com/MoneemSuibgui/Web_Fundamentals/assets/125930635/08f7ccea-7822-415d-b35d-b3c75090c30d" width="500"  />](./link/to/sql/file)
 
 
 
