@@ -1,6 +1,6 @@
 ## Singly Linked List Assignment :
 
-#### Visual representation of SLL:
+#### Visual representation of SLL :
 [<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/738f4d2a-49df-4c70-ab6f-fc7a33076535" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
@@ -26,7 +26,7 @@ Learn and implement a singly linked list in Java
 
 
 ## Doubly Linked List Assignment :
-#### Visual representation of DLL:
+#### Visual representation of DLL :
 [<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/11786757-98e2-4d13-ab7f-4ca47c1fa016" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
@@ -59,7 +59,7 @@ Usually, Tries are used to store sequences of characters or words.
 A perfect example of a trie data structure is google's auto complete feature in their search bar.
  Every time you type a letter, google searches possible suggestions for what you are looking for
 ```
-#### Visual representation of Tries:
+#### Visual representation of Tries :
 [<img src="https://github.com/MoneemSuibgui/Web_Fundamentals/assets/125930635/08f7ccea-7822-415d-b35d-b3c75090c30d" width="500"  />](./link/to/sql/file)
 
 
