@@ -1,7 +1,7 @@
 ## Singly Linked List Assignment :
 
 #### Visual representation of SLL:
-[<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/6a59cd8e-8584-4855-a5a5-9576276e0799" width="500"  />](./link/to/sql/file)
+[<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/738f4d2a-49df-4c70-ab6f-fc7a33076535" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
 Practice creating classes and objects
