@@ -1,4 +1,4 @@
-## Singly Linked List :
+## Singly Linked List Assignment :
 ##### Objectives:
 ```
 Practice creating classes and objects
@@ -22,7 +22,7 @@ Learn and implement a singly linked list in Java
 ```
 
 
-## Doubly Linked List :
+## Doubly Linked List Assignment :
 ##### Objectives:
 ```
 Construct a doubly linked list using OOP
@@ -43,4 +43,29 @@ In Dll assignment, we will implement common methods for Doubly Linked Lists
     let's say that we have 3 nodes in our list. If we call removeAt(1), the middle node is removed. (head is index 0)
 --> boolean isPalindrome(): This method returns a boolean whether the list is a palindrome or not.
      Return true if it is a palindrome, else, return false.
+```
+
+
+## Tries Assignment :
+### Introduction to Tries : 
+```
+Tries are tree-like data structures that are efficient in reTrieving information. Usually, Tries are used to store sequences of characters or words. A perfect example of a trie data structure is google's auto complete feature in their search bar. Every time you type a letter, google searches possible suggestions for what you are looking for
+```
+#### Visual representation of Tries:
+
+![Tries](https://github.com/MoneemSuibgui/Web_Fundamentals/assets/125930635/08f7ccea-7822-415d-b35d-b3c75090c30d)
+
+##### Objectives:
+```
+Construct a Trie using OOP
+```
+##### Tasks:
+```
+In this assignment, we implemented the following methods:
+
+--> boolean isPrefixValid(String prefix):
+    Returns a boolean whether the prefix is in the trie or not.
+--> boolean isWordValid(String word):
+    Returns a boolean whether the word is in the trie or not.
+--> void printAllKeys(): This method prints all the characters in your trie.
 ```
