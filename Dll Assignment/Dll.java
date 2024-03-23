@@ -1,7 +1,7 @@
 package dll.moneem.java;
 
 public class Dll {
-	// doubly linked list Dll has 3 mamber variables
+	// doubly linked list Dll has 3 member variables
 	public Node head;
 	public Node tail;
 	public int size;
@@ -12,7 +12,7 @@ public class Dll {
 		this.size=0;
 	}
 	
-	// create isEmpty method to reuse this method
+	// create isEmpty() method to reuse this method and avoid DRY
 	public boolean isEmpty() {
 		return this.head == null;
 	}
@@ -59,12 +59,6 @@ public class Dll {
 			}
 		}
 	}
-	
-	
-	//Todo:addAt(int index): This method add a node at an index. 
-	
-	
-	
 
 	// void printValuesForward() : This method prints the values of the nodes from the head to the tail
 	public void printValuesForward() {
@@ -212,11 +206,8 @@ public class Dll {
 			}
 		}
 	}
-	
-	
-	
-	
 
+	
 	// removeAt(int index): This method removes a node at an index. For example,
 	// let's say that we have 3 nodes in our list. If we call removeAt(1), the
 	// middle node is removed. (head is index 0)
