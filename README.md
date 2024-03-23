@@ -23,6 +23,8 @@ Learn and implement a singly linked list in Java
 
 
 ## Doubly Linked List Assignment :
+#### Visual representation of Tries:
+[<img src="https://github.com/MoneemSuibgui/Java/assets/125930635/11786757-98e2-4d13-ab7f-4ca47c1fa016" width="500"  />](./link/to/sql/file)
 ##### Objectives:
 ```
 Construct a doubly linked list using OOP
